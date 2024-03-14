@@ -1,0 +1,61 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_2E62B8BD_3BA8_16BE_41B1_6BD33166930B.source = https://riwanua.id/
+LinkBehaviour_2ECB3E8B_3BA8_0D59_41C7_06895BE099C3.source = https://riwanua.id/
+WebFrame_28C216D4_3BD8_1ACE_41C6_C6735B078F25_mobile.url = https://www.google.com/maps/embed?pb=!4v1710402042784!6m8!1m7!1sRyzxHjmfmTmvGIsHpCDHQQ!2m2!1d-5.143882703790124!2d119.4954776235102!3f274.59179104706897!4f-2.6466081453416024!5f1.1924812503605782
+WebFrame_28C216D4_3BD8_1ACE_41C6_C6735B078F25.url = https://www.google.com/maps/embed?pb=!4v1710402042784!6m8!1m7!1sRyzxHjmfmTmvGIsHpCDHQQ!2m2!1d-5.143882703790124!2d119.4954776235102!3f274.59179104706897!4f-2.6466081453416024!5f1.1924812503605782
+
+## Media
+
+### Title
+panorama_37FB78C2_3BE8_36CB_4197_B75AC27AF879.label = GS__9760
+panorama_3165C230_3BE8_1546_41C3_C4CB35CDACAD.label = GS__9761
+panorama_3166114B_3BE9_F7DA_41A3_FB89C749EA5D.label = GS__9763
+panorama_31672F18_3BE8_0B47_41C4_16AFBEAADAD9.label = GS__9765
+panorama_31674694_3BE8_1D4F_41CB_88B094B0D038.label = GS__9766
+panorama_31670DBE_3BE8_0EBB_41BE_B2B4987D0EC3.label = GS__9767
+panorama_316743F5_3BE8_1ACE_418B_4BAB52ABE732.label = GS__9770
+panorama_31678AFD_3BE8_0ABE_41C6_BEC0ECC0F9D8.label = GS__9819
+panorama_3167A330_3BE8_7B47_41B3_340064D09644.label = GS__9820
+panorama_31678ADB_3BE8_0AF9_41C5_02E98F02E04A.label = GS__9821
+panorama_31664216_3BE8_154A_41BE_F44EB24CE146.label = GS__9822
+panorama_31679974_3BE8_17CF_4177_551D6FE3F2B8.label = GS__9823
+panorama_316650BC_3BE8_36BF_4193_4E5445620B2D.label = GS__9824
+panorama_31660F86_3BE8_0B4B_41C8_3F745A83C78E.label = GS__9826
+panorama_3166568E_3BE8_1D5B_41A1_FCD863E9EF9B.label = GS__9828
+panorama_3166FD97_3BE8_0F4A_41AA_D4DFA2E166C6.label = GS__9829
+panorama_31660552_3BE8_FFCB_41A6_0729D5D1E98C.label = GS__9830
+panorama_31660C7C_3BE8_0DBF_41CC_209F7D1ABD19.label = GS__9831
+panorama_3166C374_3BE8_1BCF_41B3_6BA33DCAF320.label = GS__9832
+
+## Skin
+
+### Button
+Button_34BA4037_3BE8_154A_419A_2F97F1C27BE1_mobile.label = HOME
+Button_34BA4037_3BE8_154A_419A_2F97F1C27BE1.label = HOME
+Button_2AFE33DE_3BE8_3AFB_41C4_A8995DE83A8A_mobile.label = MAPS
+Button_2AFE33DE_3BE8_3AFB_41C4_A8995DE83A8A.label = MAPS
+Button_299B378D_3BE8_3B5E_41AF_176A5C75B62C.label = PANORAMA LIST
+Button_299B378D_3BE8_3B5E_41AF_176A5C75B62C_mobile.label = PANORAMA LIST
+
+### Image
+Image_34BAC037_3BE8_154A_41C2_63884841476B.url = skin/Image_34BAC037_3BE8_154A_41C2_63884841476B_en.png
+Image_34BAC037_3BE8_154A_41C2_63884841476B_mobile.url = skin/Image_34BAC037_3BE8_154A_41C2_63884841476B_mobile_en.png
+
+### Multiline Text
+HTMLText_28FAFBB9_3BD8_0B46_41BC_5DFCDC81A488_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.9230769230769231vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.92vh;font-family:'Bahnschrift Light Condensed';">Kompleks Perumdos Unhas Tamalanrea Blok H Nomor 14, RT.001/RW.01, Tamalanrea Jaya, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245</SPAN></SPAN></DIV></div>
+HTMLText_28FAFBB9_3BD8_0B46_41BC_5DFCDC81A488.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4043715846994536vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.4vh;font-family:'Bahnschrift Light Condensed';">Kompleks Perumdos Unhas Tamalanrea Blok H Nomor 14, RT.001/RW.01, Tamalanrea Jaya, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245</SPAN></SPAN></DIV></div>
+HTMLText_28FA0BB9_3BD8_0B46_41C0_09E8D08AF1D7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.256410256410256vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.26vh;font-family:'Bahnschrift SemiBold';"><B>MAPS</B></SPAN></SPAN></DIV></div>
+HTMLText_28FA0BB9_3BD8_0B46_41C0_09E8D08AF1D7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.199999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Bahnschrift SemiBold';"><B>MAPS</B></SPAN></SPAN></DIV></div>
+HTMLText_2A7288AC_3BD8_155E_41B9_6B9E8FA1B0CB_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.33vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.649999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.85vh;font-family:'Bahnschrift Condensed';">Panorama</SPAN><SPAN STYLE="font-size:5.65vh;font-family:'Bahnschrift Condensed';"> list:</SPAN></SPAN></DIV></div>
+HTMLText_2A7288AC_3BD8_155E_41B9_6B9E8FA1B0CB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.33vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.649999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;font-family:'Bahnschrift Condensed';">Panorama list:</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = riwanua
